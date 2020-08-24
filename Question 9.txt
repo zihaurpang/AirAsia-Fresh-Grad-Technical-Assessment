@@ -1,0 +1,1 @@
+Vittual space and physical memory space are not neccessary to be same size. virtual space and physical memory space are independent. only a portion of the virtual address space that processes do use is loaded into physical memory at a time.
