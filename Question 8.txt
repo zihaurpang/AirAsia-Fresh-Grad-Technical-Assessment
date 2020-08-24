@@ -1,0 +1,1 @@
+Threads are not protected within the same process as threads share everything, most importantly address space. So, data produced by one thread is immediately available to all the other threads in the process.
