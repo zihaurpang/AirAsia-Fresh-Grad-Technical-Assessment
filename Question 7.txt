@@ -1,0 +1,1 @@
+When fork() a process, it creates a child process with a separate memory heap from the parent. The parent will maintain its global variables while the child will allocate its own copies.
